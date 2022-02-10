@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "smile.json",
+      "type": "com.smile.myjson.config.MyJsonProperties",
+      "sourceType": "com.smile.myjson.config.MyJsonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "smile.json.prefix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.smile.myjson.config.MyJsonProperties",
+      "defaultValue": "@"
+    },
+    {
+      "name": "smile.json.suffix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.smile.myjson.config.MyJsonProperties",
+      "defaultValue": "@"
+    }
+  ],
+  "hints": []
+}

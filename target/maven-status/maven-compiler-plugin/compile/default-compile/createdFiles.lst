@@ -1,0 +1,4 @@
+com\smile\myjson\service\MyJsonService.class
+com\smile\myjson\config\MyJsonConfiguration.class
+com\smile\myjson\config\MyJsonProperties.class
+META-INF\spring-configuration-metadata.json
