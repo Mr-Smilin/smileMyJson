@@ -1,6 +1,6 @@
-package com.smile.myjson.config;
+package io.github.myjson.config;
 
-import com.smile.myjson.service.MyJsonService;
+import io.github.myjson.service.MyJsonService;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

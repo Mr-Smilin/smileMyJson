@@ -1,4 +1,4 @@
-package com.smile.myjson.config;
+package io.github.myjson.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
