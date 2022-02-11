@@ -2,21 +2,21 @@
   "groups": [
     {
       "name": "smile.json",
-      "type": "io.github.myjson.config.MyJsonProperties",
-      "sourceType": "io.github.myjson.config.MyJsonProperties"
+      "type": "io.github.nalocal.myjson.config.MyJsonProperties",
+      "sourceType": "io.github.nalocal.myjson.config.MyJsonProperties"
     }
   ],
   "properties": [
     {
       "name": "smile.json.prefix-name",
       "type": "java.lang.String",
-      "sourceType": "io.github.myjson.config.MyJsonProperties",
+      "sourceType": "io.github.nalocal.myjson.config.MyJsonProperties",
       "defaultValue": "@"
     },
     {
       "name": "smile.json.suffix-name",
       "type": "java.lang.String",
-      "sourceType": "io.github.myjson.config.MyJsonProperties",
+      "sourceType": "io.github.nalocal.myjson.config.MyJsonProperties",
       "defaultValue": "@"
     }
   ],

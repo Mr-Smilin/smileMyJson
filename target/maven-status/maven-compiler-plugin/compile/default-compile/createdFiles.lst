@@ -1,4 +1,4 @@
-io\github\myjson\config\MyJsonConfiguration.class
+io\github\nalocal\myjson\config\MyJsonProperties.class
+io\github\nalocal\myjson\config\MyJsonConfiguration.class
 META-INF\spring-configuration-metadata.json
-io\github\myjson\config\MyJsonProperties.class
-io\github\myjson\service\MyJsonService.class
+io\github\nalocal\myjson\service\MyJsonService.class
